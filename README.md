@@ -203,3 +203,15 @@ Note no filing cabinets, just a conversation with True Names
 
 ---
 
+## Case study : Scuttlebutt
+
+
+---
+
+# Interoperability
+
+## - learn from the past
+## - build people-centric platforms
+## - build resilient
+## - build flexible
+
